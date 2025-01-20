@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KanishkVarasia
 - 👀 I’m interested in Data Analytics and Data Science 
-- 🌱 I’m currently learning Mobile App Development 
+- 🌱 I’m currently learning Data Visualization and Software Quality Assurance 
 - 📫 You can reach me through my LinkedIn, www.linkedin.com/in/kanishkvarasia 
 - 😄 Pronouns: He/Him
 
